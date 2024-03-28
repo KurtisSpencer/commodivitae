@@ -1,0 +1,27 @@
+{
+  "author": "SigurdGutmann",
+  "name": "commodivitae",
+  "description": "A simple and intuitive object validation library",
+  "keywords": [
+    "json",
+    "quod",
+    "JSON Schema",
+    "validation",
+    "dolorum"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSpencer/commodivitae.git"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "uglify-js": "*",
+    "underscore": "^1.7.0",
+    "vows": "^0.7.0"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js"
+}
